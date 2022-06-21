@@ -3,5 +3,5 @@
 :star2:	:star2:	:star2:	:star2:	</br>
 :wave: Hello there!Here is Amarok!You can call he IceWolf or Ice.</br>
 :wolf: This is a stupid wolf，now learning to use Java, Python and Lua.</br>
-:closed_book:	Enjoy using AFL-3.0 open source for projects, and created his own pineapple license.</p>
+:closed_book:	Enjoy using AFL-3.0 open source for projects, and created his own Pineapple License.</p>
 </p>
