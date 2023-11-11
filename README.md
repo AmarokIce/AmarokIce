@@ -16,6 +16,6 @@
 <br />
 <br />
 
-<code>
-  <s>C# 真是太好玩了！</s> 
-</code>
+
+[![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/AiFaDian.png)](https://afdian.net/a/ut_ice)
+[![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/BuyMeACoffee.png)](https://www.buymeacoffee.com/AmarokIce)
