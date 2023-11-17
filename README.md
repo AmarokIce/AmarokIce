@@ -2,6 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
+<p>
+<br /><br /><br />
 </p>
 
 [Welcome to my Blog!](https://wolf.snowlyicewolf.club)
