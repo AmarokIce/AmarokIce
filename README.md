@@ -1,5 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
+
+
 :star2:	:star2:	:star2:	:star2:	</br>
 :wave: Hello there!Here is Amarok!You can call he IceWolf or Ice.</br>
 :wolf: This is a stupid wolf，now learning to play with C#.</br>
