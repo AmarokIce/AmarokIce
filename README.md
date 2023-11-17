@@ -2,22 +2,24 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
+</p>
 
-:star2:	:star2:	:star2:	:star2:	</br>
-:wave: Hello there!Here is Amarok!You can call he IceWolf or Ice.</br>
-:wolf: This is a stupid wolf，now learning to play with C#.</br>
-:closed_book:	Enjoy using AFL-3.0 open source for projects, and created his own Pineapple License.</p>
-:computer: Prefer to use Kotlin over Java
+[Welcome to my Blog!](https://wolf.snowlyicewolf.club)
 
 </p>
-:star2:	:star2:	:star2:	:star2:	</br>
-:wave: 你好！这里是AmarokIce！你也可以称呼它为初雪冰，雪狼或者Ice！</br>
-:wolf: 事蠢狼。正在学习如何玩C#。</br>
-:closed_book:	喜欢使用AFL-3.0来开源项目，并且自己创作了一份凤梨许可证。</p>
-:computer: 相较于Java，更喜欢使用Kotlin。
+</br>
+:wave: Hello there!
+:star2: Here is AmarokIce! You can call he IceWolf or Ice.</br>
+:wolf: This is a stupid wolf, always wanna have some pineapple🍍.</br>
+:closed_book: AmarokIce love to mark the project is a Free Software, but he didn't like someone sell the code with out any work. His [Pineapple License](https://github.com/AmarokIce/AmarokIce/blob/main/PineappleLicense.txt) is a Free but ask the people who sell the code to provide their own efforts.</p>
+
 </p>
-<br />
-<br />
+</br>
+:wave: 你好！
+:star2: 这里是初雪·冰！你也可以叫它雪狼或者咩狼。</br>
+:wolf: 事蠢狼，而且总是想吃凤梨🍍。</br>
+:closed_book: 初雪·冰热衷于创作自由软件，但是它并不喜欢代码在没有被进行任何修改的，按原样的被贩卖。 它的 [Pineapple License](https://github.com/AmarokIce/AmarokIce/blob/main/PineappleLicense.txt) 是一个定义自由但要求希望贩卖代码的人付诸自己的努力。</p>
+
 
 
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/AiFaDian.png)](https://afdian.net/a/AmarokIce)
