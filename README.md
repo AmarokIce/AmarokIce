@@ -3,11 +3,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true">
 
 
-<br /><br />
-
-
-
-</br>
+<br />
+------------------
+<br />
 
 # :wave: Hello there!
 
