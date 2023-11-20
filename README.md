@@ -37,5 +37,7 @@ My Json Handler: [Github: AmarokIce'sJsonForJava](https://github.com/AmarokIce/A
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true" />
 
+------------------------
+
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/AiFaDian.png)](https://afdian.net/a/AmarokIce)
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/BuyMeACoffee.png)](https://www.buymeacoffee.com/AmarokIce)
