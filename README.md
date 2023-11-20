@@ -1,18 +1,3 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true" />
-
-<br />
-
-------------------
-
-<br />
-
-------------------
-
-<br />
-
-
 # :wave: Hello there!
 
 :star2: Here is AmarokIce! You can call he IceWolf or Ice.</br>
@@ -46,6 +31,11 @@ My Json Handler: [Github: AmarokIce'sJsonForJava](https://github.com/AmarokIce/A
 我的Json处理器: [Github: AmarokIce'sJsonForJava](https://github.com/AmarokIce/AmarokJsonForJava)
 
 [Pineapple License](https://github.com/AmarokIce/AmarokIce/blob/main/PineappleLicense.txt)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true" />
 
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/AiFaDian.png)](https://afdian.net/a/AmarokIce)
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/BuyMeACoffee.png)](https://www.buymeacoffee.com/AmarokIce)
