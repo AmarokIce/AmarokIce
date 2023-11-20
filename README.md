@@ -33,7 +33,11 @@ My Json Handler: [Github: AmarokIce'sJsonForJava](https://github.com/AmarokIce/A
 [Pineapple License](https://github.com/AmarokIce/AmarokIce/blob/main/PineappleLicense.txt)
 
 ------------------------
-![](https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true")
+
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/AiFaDian.png)](https://afdian.net/a/AmarokIce)
 [![](https://raw.githubusercontent.com/AmarokIce/AmarokIce/main/img/BuyMeACoffee.png)](https://www.buymeacoffee.com/AmarokIce)
+
+------------------------
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true" />
