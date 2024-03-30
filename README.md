@@ -1,11 +1,12 @@
 # :wave: Hello there!
 
 :star2: Here is AmarokIce! You can call he IceWolf or Ice.</br>
-:wolf: This is a stupid wolf, always wanna have some pineapple🍍.</br>
+:wolf: A stupid wolf, and always wanna have some pineapple🍍.</br>
 :closed_book: AmarokIce love to mark the project is a Free Software, but he didn't like someone sell the code with out any work. His Pineapple License
- is a Free but ask the people who sell the code to provide their own efforts.</br>
-:+1: Good thing is Open Source!<br />
-:-1: Never ask any like 'Are you learning in a Computer Engineering Dept class?', he is a designer.<br />
+ is a Free but ask the people who sell the code to provide their own efforts.</p>
+
+:+1: Open Source are nice things!<br />
+:-1: Never ask any like 'Are you learning in a Computer Engineering Dept class?'.<br />
 
 # :star2: Smell it！
 
@@ -21,8 +22,9 @@ My Json Handler: [Github: AmarokIce'sJsonForJava](https://github.com/AmarokIce/A
 :star2: 这里是初雪·冰！你也可以叫它雪狼或者咩狼。</br>
 :wolf: 事蠢狼，而且总是想吃凤梨🍍。</br>
 :closed_book: 初雪·冰热衷于创作自由软件，但是它并不喜欢代码在没有被进行任何修改的，按原样的被贩卖。 它的 Pineapple License 是一个定义自由但要求希望贩卖代码的人付诸自己的努力。</p>
+
 :+1: 开源是好事！!<br />
-:-1: 别再问“是不是计算机生”了，它是设计师，也很介意被这么问。<br />
+:-1: 别再问“是不是计算机生”了。<br />
 
 # :star2: 闻闻这些！
 
