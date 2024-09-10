@@ -15,8 +15,12 @@
 ![Java](https://badgen.net/badge/icon/java?icon=java&label)
 ![Kotlin](https://badgen.net/badge/icon/kotlin?icon=java&label)
 ![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)
+![DLang](https://badgen.net/badge/icon/d?logo=dlang&label)
+
 
 ![Pineapple](https://badgen.net/badge/Give%20Me/Pineapple/yellow)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Give+me+Pineapple!)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true)  
 
