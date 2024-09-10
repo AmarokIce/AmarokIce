@@ -20,7 +20,7 @@
 
 ![Pineapple](https://badgen.net/badge/Give%20Me/Pineapple/yellow)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Give+me+Pineapple!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Give+me+Pineapple!)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true)  
 
