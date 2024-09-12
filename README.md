@@ -26,5 +26,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AmarokIce&show_icons=true&icon_color=0B61A4&text_color=718096&bg_color=ffffff&hide_title=true)  
 
+[![](https://github.com/AmarokIce/AmarokIce/blob/main/img/AiFaDian.png)](https://ifdian.net/a/AmarokIce)
+[![](https://github.com/AmarokIce/AmarokIce/blob/main/img/BuyMeACoffee.png)](https://buymeacoffee.com/AmarokIce)
+[![](https://github.com/AmarokIce/AmarokIce/blob/main/img/Blog.png)](https://wolf.snowlyicewolf.club)
+
 </div>
 
