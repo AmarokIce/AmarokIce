@@ -14,9 +14,9 @@
 
 ![Java](https://img.shields.io/badge/Java-yellow?logo=java&logoSize=auto&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=kotlin&logoSize=auto&style=for-the-badge)
-![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoSize=auto&style=for-the-badge)
 ![DLang](https://img.shields.io/badge/D-red?logo=d&logoSize=auto&style=for-the-badge)
 
+![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoSize=auto&style=for-the-badge)
 
 ![Pineapple](https://badgen.net/badge/Give%20Me/Pineapple/yellow)  
 
