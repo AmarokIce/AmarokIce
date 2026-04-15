@@ -14,11 +14,10 @@
 ![DLang](https://img.shields.io/badge/D-red?logo=d&logoSize=auto&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoSize=auto&style=for-the-badge)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmarokIce&layout=compact&hide=html,css,less,scss&langs_count=8&theme=tokyonight&hide_title=true)    
+![](https://tools.blackcyan.top/stats/api?username=AmarokIce&show_icons=true&theme=radical)
 [![](https://github.com/AmarokIce/AmarokIce/blob/main/img/AiFaDian.png)](https://ifdian.net/a/AmarokIce)
 [![](https://github.com/AmarokIce/AmarokIce/blob/main/img/BuyMeACoffee.png)](https://buymeacoffee.com/AmarokIce)
 [![](https://github.com/AmarokIce/AmarokIce/blob/main/img/Blog.png)](https://wolf.snowlyicewolf.club)
-
-![](https://tools.blackcyan.top/stats/api?username=AmarokIce&show_icons=true&theme=radical)
 
 </div>
 
