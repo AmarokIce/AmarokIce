@@ -18,5 +18,7 @@
 [![](https://github.com/AmarokIce/AmarokIce/blob/main/img/BuyMeACoffee.png)](https://buymeacoffee.com/AmarokIce)
 [![](https://github.com/AmarokIce/AmarokIce/blob/main/img/Blog.png)](https://wolf.snowlyicewolf.club)
 
+![](https://tools.blackcyan.top/stats/api?username=AmarokIce&show_icons=true&theme=radical)
+
 </div>
 
